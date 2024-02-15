@@ -55,6 +55,9 @@ FIGURE-02
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
 
+![image](https://github.com/SamyukthaSreenivasan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119475703/bb633878-42c4-45ea-af13-4c8222e772c2)
+
+
 ## PROGRAM 
  ```
  int led=4;
@@ -87,7 +90,12 @@ void loop()
 
 ## OUTPUT OF SIMULATION :
 
+![image](https://github.com/SamyukthaSreenivasan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119475703/c4af0089-ff9b-4a73-a3fb-b854184287da)
+
+
 ![ar](https://github.com/SamyukthaSreenivasan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119475703/432b28c1-af53-4bd4-82f7-6947e59e69bb)
 
-![image](https://github.com/SamyukthaSreenivasan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119475703/bb633878-42c4-45ea-af13-4c8222e772c2)
+## RESULT :
+
+Thus,interfacing digital input sensor with arduino pushbutton using Tinker Cad is been implemented successfully. 
 
