@@ -95,6 +95,7 @@ void loop()
 
 ![ar](https://github.com/SamyukthaSreenivasan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119475703/432b28c1-af53-4bd4-82f7-6947e59e69bb)
 
+
 ## RESULT :
 
 Thus,interfacing digital input sensor with arduino pushbutton using Tinker Cad is been implemented successfully. 
