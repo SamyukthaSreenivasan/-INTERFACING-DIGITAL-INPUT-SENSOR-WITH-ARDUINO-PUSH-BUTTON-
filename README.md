@@ -56,7 +56,7 @@ FIGURE-02
 
 
 ## PROGRAM 
- 
+ ```
  int led=4;
 int pushbutton=3;
 void setup()
@@ -83,7 +83,7 @@ void loop()
     digitalWrite(led,LOW);
   }
 }
-
+```
 
 ## OUTPUT OF SIMULATION :
 
